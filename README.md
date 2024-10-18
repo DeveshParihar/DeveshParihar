@@ -8,12 +8,14 @@
 
 <p align="left"> <img src="https://www.techsolutioners.com/wp-content/uploads/2022/09/website-develop.gif" width="200"alt="devesh_parihar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deveshparihar" alt="deveshparihar" /></a> </p>
+<p align="center"> 
 
 - 📄 Know about my experiences [https://github.com/DeveshParihar/portfolio/blob/main/DeveshResume.pdf](https://github.com/DeveshParihar/portfolio/blob/main/DeveshResume.pdf)
 - 📫 How to reach me **deveshparihar197@gmail.com**
 -  Portfolio Website : **https://deveshparihar.github.io/portfolio/**
+ </p>
 
+ 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/devesh parihar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devesh parihar" height="30" width="40" /></a>
