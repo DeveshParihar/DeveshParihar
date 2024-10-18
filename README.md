@@ -1,6 +1,6 @@
 ![logo](1698477736998.jfif)
 <h1 align="center">Hi 👋, I'm Devesh Parihar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Frontend Developer || Software Engineer from India</h3>
 
 <img align="right" alt="coding" width="400" src="1677431973169.gif">
 
