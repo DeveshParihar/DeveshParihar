@@ -36,4 +36,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deveshparihar&show_icons=true&locale=en" alt="deveshparihar" /></p>
 
+<h3 align="left">🔥   My Stats :</h3>
 <p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deveshparihar&" alt="deveshparihar" /></p>
