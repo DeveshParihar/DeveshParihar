@@ -1,5 +1,7 @@
 ![logo](1698477736998.jfif)
+
 <h1 align="center">Hi 👋, I'm Devesh Parihar</h1>
+
 <h3 align="center">A passionate Frontend Developer || Software Engineer from India</h3>
 
 <img align="right" alt="coding" width="400" src="1677431973169.gif">
@@ -9,6 +11,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deveshparihar" alt="deveshparihar" /></a> </p>
 
 - 📄 Know about my experiences [https://github.com/DeveshParihar/portfolio/blob/main/DeveshResume.pdf](https://github.com/DeveshParihar/portfolio/blob/main/DeveshResume.pdf)
+- 📫 How to reach me **deveshparihar197@gmail.com**
+-  Portfolio Website : **https://deveshparihar.github.io/portfolio/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
