@@ -13,7 +13,7 @@
 - 📄 Know about my experiences [https://github.com/DeveshParihar/portfolio/blob/main/DeveshResume.pdf](https://github.com/DeveshParihar/portfolio/blob/main/DeveshResume.pdf)
 - 📫 How to reach me **deveshparihar197@gmail.com**
 -  Portfolio Website : **https://deveshparihar.github.io/portfolio/**
--  Chatbot Website : **onlinebot.infinityfreeapp.com**
+-  Chatbot Website : **https://onlinebot.infinityfreeapp.com**
  </p>
 
  
